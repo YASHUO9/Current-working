@@ -1,4 +1,9 @@
 This is my first file as github
 now i have updated my file here 
+<<<<<<< HEAD
  
 now i have updated it in 18
+=======
+
+now i have change the file work
+>>>>>>> 98054a006bfcd7da0a7ad86e471c79d4c8ddfbc4
